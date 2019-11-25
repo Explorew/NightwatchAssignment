@@ -1,0 +1,20 @@
+{
+  "name": "NightWatchAssignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch -c nightwatch.vrt.conf.js"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^78.0.1",
+    "nightwatch": "^1.3.1"
+  },
+  "dependencies": {
+    "nightwatch-vrt": "^0.2.10"
+  }
+}
