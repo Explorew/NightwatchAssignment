@@ -9,5 +9,6 @@
 
 ### Quick Start:
  * *Make sure node.js is installed*
+ * *Navigate to the directory of assignment* 
  * *Run Command: npm install*
  * *Run Command: npm test*
