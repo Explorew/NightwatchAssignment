@@ -11,4 +11,5 @@
  * *Make sure node.js is installed*
  * *Navigate to the directory of assignment* 
  * *Run Command: npm install*
- * *Run Command: npm test*
+ * *Run Command: npm test (to create baseline images)*
+* *Run Command: npm test (for testing)*
